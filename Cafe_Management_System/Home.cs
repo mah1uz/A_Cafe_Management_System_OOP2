@@ -1,0 +1,42 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace Cafe_Management_System
+{
+    public partial class Home : Form
+    {
+        public Home()
+        {
+            InitializeComponent();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Loginpage adminLogin = new Loginpage();
+            adminLogin.Show();
+            this.Hide();
+        }
+
+        private void buttonDoctorLogin_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void buttonPatientLogin_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}

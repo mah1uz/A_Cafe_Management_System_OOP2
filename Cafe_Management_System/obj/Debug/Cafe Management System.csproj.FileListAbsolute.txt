@@ -1,0 +1,97 @@
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Addmanager.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AdminLogin.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeeLogin.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeesPage.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Home.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AdminDeshboard.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeesHr.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Addproduct.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.HrDeshboard.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Manager.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.exe
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.exe
+C:\Users\ASUS\Downloads\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.exe
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Addmanager.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Home.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AdminDeshboard.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeesHr.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.exe
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Loginpage.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Deshboard.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe_Management_System.Menu56.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe_Management_System.Signup.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT_Employee_Management_System.cpage.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (2)\IT Employee Management System (4)\IT Employee Management System (3)\IT Employee Management System\obj\Debug\Cafe_Management_System.CustomerOder.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerOder.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Menu56.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Signup.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Addmanager.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Loginpage.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AdminDeshboard.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeesHr.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Deshboard.resources
+C:\Users\mahfu\Downloads\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.cpage.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\bin\Debug\Cafe Management System.exe
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\bin\Debug\Cafe Management System.pdb
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.exe.config
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Addemployee.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerOder.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Loginpage.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.cpage.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.AdminDeshboard.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeesHr.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Deshboard.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Menu56.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe_Management_System.Signup.resources
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.exe
+C:\Users\MAHFUZ\STUDY MATERIALS\SEM6 SPRING24-25(25FEB'25-TBA)16cr\Cafe Management System\obj\Debug\Cafe Management System.pdb
+D:\A1\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\A1\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\A1\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.exe.config
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Addemployee.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.CustomerOder.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Loginpage.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.cpage.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Home.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.AdminDeshboard.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.EmployeesHr.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Deshboard.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Menu56.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe_Management_System.Signup.resources
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\A1\Cafe Management System\obj\Debug\Cafe Management System.pdb

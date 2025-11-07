@@ -1,0 +1,24 @@
+C:\Users\mahfu\source\repos\IT Employee Management System\bin\Debug\IT Employee Management System.exe.config
+C:\Users\mahfu\source\repos\IT Employee Management System\bin\Debug\IT Employee Management System.exe
+C:\Users\mahfu\source\repos\IT Employee Management System\bin\Debug\IT Employee Management System.pdb
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT Employee Management System.csproj.AssemblyReference.cache
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AdminLogin.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeeLogin.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Home.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.HrLogin.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Properties.Resources.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT Employee Management System.csproj.GenerateResource.cache
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT Employee Management System.csproj.CoreCompileInputs.cache
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT Employee Management System.exe
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT Employee Management System.pdb
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AddHR.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.AdminDeshboard.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeesHr.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.HrDeshboard.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.EmployeesPage.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.projectadd.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Form1.resources
+C:\Users\mahfu\source\repos\IT Employee Management System\obj\Debug\IT_Employee_Management_System.Form2.resources
+C:\Users\mahfu\Downloads\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT Employee Management System.csproj.AssemblyReference.cache
+C:\Users\mahfu\Downloads\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT Employee Management System.exe
+C:\Users\mahfu\Downloads\IT Employee Management System (3)\IT Employee Management System\obj\Debug\IT Employee Management System.pdb

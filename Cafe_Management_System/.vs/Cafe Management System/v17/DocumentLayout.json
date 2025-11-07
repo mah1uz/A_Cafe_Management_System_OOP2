@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\A1\\Cafe Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|d:\\a1\\cafe management system\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:loginpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\employeeshr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:employeeshr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\employeeshr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:employeeshr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:deshboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\customeroder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:customeroder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\customeroder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:customeroder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|D:\\A1\\Cafe Management System\\cpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F7D61001-A3D0-4B57-9FEC-BFF90B67D13F}|Cafe Management System.csproj|solutionrelative:cpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Signup.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\Signup.cs",
+              "RelativeToolTip": "Signup.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwEsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:45:34.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Signup.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Signup.cs",
+              "RelativeDocumentMoniker": "Signup.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\Signup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:45:32.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\Menu.cs",
+              "RelativeToolTip": "Menu.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAAAK4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:45:06.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Menu.cs",
+              "RelativeDocumentMoniker": "Menu.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\Menu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:45:05.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Loginpage.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Loginpage.cs",
+              "RelativeDocumentMoniker": "Loginpage.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\Loginpage.cs",
+              "RelativeToolTip": "Loginpage.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAswIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:44:46.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loginpage.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Loginpage.cs",
+              "RelativeDocumentMoniker": "Loginpage.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\Loginpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:44:45.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\Home.cs",
+              "RelativeToolTip": "Home.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:44:23.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Home.cs",
+              "RelativeDocumentMoniker": "Home.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:44:20.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesHr.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\EmployeesHr.cs",
+              "RelativeDocumentMoniker": "EmployeesHr.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\EmployeesHr.cs",
+              "RelativeToolTip": "EmployeesHr.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAuwLwBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:43:45.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeesHr.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\EmployeesHr.cs",
+              "RelativeDocumentMoniker": "EmployeesHr.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\EmployeesHr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:43:44.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Deshboard.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Deshboard.cs",
+              "RelativeDocumentMoniker": "Deshboard.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\Deshboard.cs",
+              "RelativeToolTip": "Deshboard.cs",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAwwKIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:43:20.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Deshboard.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\Deshboard.cs",
+              "RelativeDocumentMoniker": "Deshboard.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\Deshboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:43:18.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomerOder.cs",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\CustomerOder.cs",
+              "RelativeDocumentMoniker": "CustomerOder.cs",
+              "ToolTip": "D:\\A1\\Cafe Management System\\CustomerOder.cs",
+              "RelativeToolTip": "CustomerOder.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:42:27.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomerOder.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\CustomerOder.cs",
+              "RelativeDocumentMoniker": "CustomerOder.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\CustomerOder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:42:26.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "cpage.cs [Design]",
+              "DocumentMoniker": "D:\\A1\\Cafe Management System\\cpage.cs",
+              "RelativeDocumentMoniker": "cpage.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\Cafe Management System\\cpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T07:42:20.3Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
