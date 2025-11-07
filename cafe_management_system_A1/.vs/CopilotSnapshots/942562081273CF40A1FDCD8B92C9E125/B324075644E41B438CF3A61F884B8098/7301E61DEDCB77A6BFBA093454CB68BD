@@ -1,0 +1,99 @@
+﻿using MetroFramework.Controls;
+using MetroFramework.Forms;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.Entity;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace cafe_management_system_A1
+{
+    public partial class customerFrame : MetroForm
+    {
+        private readonly int _customerId;
+
+        public customerFrame(int id)
+        {
+            InitializeComponent();
+            _customerId = id;
+        }
+
+        private void loadGridData()
+        {
+            using (CMS menu = new CMS())
+            {
+                var items = menu.menuItems
+                    .Select(m => new
+                    {
+                        Name = m.Name,
+                        Price = m.Price,
+                        Availability = m.IsAvailable == 1 ? "Yes" : "No"
+                    })
+                    .ToList();
+
+                metroGrid1.AutoGenerateColumns = true;
+                metroGrid1.DataSource = items;
+                metroGrid1.Refresh();
+            }
+        }
+
+        private void metroGrid1_SelectionChanged(object sender, EventArgs e)
+        {
+            if (metroGrid1.SelectedRows.Count > 0)
+            {
+                var selectedRow = metroGrid1.SelectedRows[0];
+                string name = selectedRow.Cells["Name"].Value?.ToString();
+                string price = selectedRow.Cells["Price"].Value?.ToString();
+                string availability = selectedRow.Cells["Availability"].Value?.ToString();
+                // You can add your logic here, e.g., show details, enable order button, etc.
+                // MetroFramework.MetroMessageBox.Show(this, $"Selected: {name}, {price}, {availability}");
+            }
+        }
+
+        private void metroPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void menuGrid_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void customerFrame_Load_1(object sender, EventArgs e)
+        {
+            using (CMS menu = new CMS())
+            {
+                // Find the user by ID
+                var user = menu.users.FirstOrDefault(u => u.ID == _customerId);
+                if (user != null)
+                {
+                    // Use Username property for greeting
+                    metroLabel1.Text = $"Greetings, {user.Username}!";
+                }
+                else
+                {
+                    metroLabel1.Text = "Greetings, Customer!";
+                }
+            }
+            loadGridData();
+            // Attach event handler
+            metroGrid1.SelectionChanged += metroGrid1_SelectionChanged;
+        }
+
+        private void metroLabel1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+    }
+}

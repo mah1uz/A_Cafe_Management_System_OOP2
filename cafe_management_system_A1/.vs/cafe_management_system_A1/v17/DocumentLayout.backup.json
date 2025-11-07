@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|c:\\users\\mahfuz\\study materials\\sem6_spring24-25(25feb\u002725-30june\u002725)16cr\\object oriented programming 2 [n]\\project\\cafe_management_system_a1\\cafe_management_system_a1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\admin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\customerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_a1\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{389267FF-4696-4317-A706-E3E051E304D9}|cafe_management_system_A1\\cafe_management_system_A1.csproj|solutionrelative:cafe_management_system_a1\\signupform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin.cs",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\admin.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.cs",
+              "RelativeToolTip": "cafe_management_system_A1\\admin.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAmwIcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:46.019Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "customerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\customerForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\customerForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\customerForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\customerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:49.999Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.Designer.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\admin.Designer.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.Designer.cs",
+              "RelativeToolTip": "cafe_management_system_A1\\admin.Designer.cs",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAAwA4BAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T08:02:49.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "customerForm.cs",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\customerForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\customerForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\customerForm.cs",
+              "RelativeToolTip": "cafe_management_system_A1\\customerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:53.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "admin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\admin.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T17:38:27.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "signUpForm.cs",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\signUpForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\signUpForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\signUpForm.cs",
+              "RelativeToolTip": "cafe_management_system_A1\\signUpForm.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswEMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:37.345Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "signUpForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\signUpForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\signUpForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\signUpForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\SEM6 SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\signUpForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:33.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "logInForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\logInForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\logInForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\logInForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\SEM6 SPRING24-25(25FEB\u002725-TBA)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\logInForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:35:26.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "logInForm.cs",
+              "DocumentMoniker": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\logInForm.cs",
+              "RelativeDocumentMoniker": "cafe_management_system_A1\\logInForm.cs",
+              "ToolTip": "C:\\Users\\MAHFUZ\\STUDY MATERIALS\\SEM6_SPRING24-25(25FEB\u002725-30June\u002725)16cr\\OBJECT ORIENTED PROGRAMMING 2 [N]\\PROJECT\\cafe_management_system_A1\\cafe_management_system_A1\\logInForm.cs",
+              "RelativeToolTip": "cafe_management_system_A1\\logInForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-29T04:33:39.04Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
